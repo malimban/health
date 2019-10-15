@@ -2,7 +2,7 @@
 
 I might be getting giddy talking about my goals, so kick me if I don't, okay?
 
-[Crisp, quality reps.]https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/
+[Crisp, quality reps.](https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/)
 
 Day A
     3×5+ Barbell Rows
