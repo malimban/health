@@ -22,7 +22,7 @@ __Checklist__
 - [ ] This is was intentionally left unchecked
 
 Date | Day | Pulling | Pushing | Others | Cardio? 
---- | :---: | :---: | :---: | ---:
+--- | :---: | :---: | :---: | :---: | ---:
 10/07/19 | A, M | 5/5/5 5 slowly | 5/5/5 10 | 5/5/5 15 | X
 10/09/19 | B, W | 5/5/5 70? assisted | 5/5/3 5 dying | 5/5/5 10 |
 10/11/19 | ... | | | |
