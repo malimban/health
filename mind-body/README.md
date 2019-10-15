@@ -28,6 +28,6 @@ Date | Day | Pulling | Pushing | Others | Cardio?
 10/11/19 | ... | | | |
 10/14/19 | A, M | 5/5/3 10 | 5/5/3 15 | 5/5/8 25 |  
 10/16/19 | | | | |
-10/18/19 | | | | |
+10/18/19 | | | | 
 
 <https://forum.bodybuilding.com/showthread.php?t=998224>
