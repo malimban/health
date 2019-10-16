@@ -33,7 +33,7 @@ Date | Day | Pulling | Pushing | Others | Cardio?*
 10/23/19 | | | | 
 10/25/19 | | | | 
 
-*\**
+**\***
 * Big X for running
 * Little x for dancing? streching?
 
