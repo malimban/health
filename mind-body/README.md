@@ -5,21 +5,22 @@ I might be getting giddy talking about my goals, so kick me if I don't, okay?
 [Crisp, quality reps.](https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/)
 
 Day A
-    3×5+ Barbell Rows
-    3×5+ Bench Press
-    3×5+ Squats
+1. 3×5+ Barbell Rows
+2. 3×5+ Bench Press
+3. 3×5+ Squats
 
 Day B
-    3×5+ Chinups
-    3×5+ Overhead Press
-    3×5+ Deadlifts
+1. 3×5+ Chinups
+2. 3×5+ Overhead Press
+3. 3×5+ Deadlifts
 
 __Checklist__
 - [x] Find Lifting Program (r/fitness)
 - [x] Find Running Program (c25k)
 - [ ] Finish Running Program
 - [ ] Run a 5k
-- [ ] This is was intentionally left unchecked
+- [ ] Deadlift 1.5x my weight
+- [ ] Do a backflip
 
 Date | Day | Pulling | Pushing | Others | Cardio? 
 --- | :---: | :---: | :---: | :---: | ---:
