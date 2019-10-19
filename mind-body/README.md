@@ -22,13 +22,20 @@ __Checklist__
 - [ ] Deadlift 1.5x my weight
 - [ ] Do a backflip
 
-Date | Day | Pulling | Pushing | Others | Cardio? 
+Date | Day | Pulling | Pushing | Others | Cardio?* 
 --- | :---: | :---: | :---: | :---: | ---:
 10/07/19 | A, M | 5/5/5 5 slowly | 5/5/5 10 | 5/5/5 15 | X
 10/09/19 | B, W | 5/5/5 70? assisted | 5/5/3 5 dying | 5/5/5 10
 10/11/19 | ... | | |
 10/14/19 | A, M | 5/5/3 10 | 5/5/3 15 | 5/5/8 25
-10/16/19 | | | |
+10/16/19 | B, W | 3/3/3 45 assisted | 5/5/5 7.5 straight | 5/5/5 20 | X
 10/18/19 | | | | 
+10/21/19 | | | | 
+10/23/19 | | | | 
+10/25/19 | | | | 
+
+**\***
+* Big X for running
+* Little x for dancing? streching?
 
 <https://forum.bodybuilding.com/showthread.php?t=998224>
